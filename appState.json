@@ -22,7 +22,7 @@
         "children": [],
         "isRemovable": true,
         "filePath": "Ireland/lambda.js",
-        "code": "exports.handler = function(event, context, callback) {\n    \n    callback(null, {\"message\": \"Successfully executed\"});\n}",
+        "code": "exports.handler = function(event, context, callback) {\n    \n    callback(null, {\"message\": \"Successfully executed Irelnd 77\"});\n}",
         "config": {
           "runtime": "nodejs8.10",
           "handler": "handler",
@@ -89,7 +89,7 @@
     "projectRegion": "eu-west-1",
     "platform": "AWS",
     "platformRegions": {},
-    "lastSave": 1568109121547
+    "lastSave": 1568109243638
   },
   "VCS_STATE": {
     "provider": "GitHub",
